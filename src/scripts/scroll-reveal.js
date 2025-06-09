@@ -40,3 +40,4 @@ export default function initScrollReveal(defaultProps = null) {
         ScrollReveal().reveal(element, Object.assign({}, defaultProps, animation));
     });
 }
+
